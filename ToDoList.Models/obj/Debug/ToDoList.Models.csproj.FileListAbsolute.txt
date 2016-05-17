@@ -1,0 +1,5 @@
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ToDoList.Models\bin\Debug\ToDoList.Models.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ToDoList.Models\bin\Debug\ToDoList.Models.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ToDoList.Models\obj\Debug\ToDoList.Models.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ToDoList.Models\obj\Debug\ToDoList.Models.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ToDoList.Models\obj\Debug\ToDoList.Models.pdb

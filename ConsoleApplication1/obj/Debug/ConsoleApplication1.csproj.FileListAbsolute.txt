@@ -1,0 +1,14 @@
+c:\users\tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ToDoList.DataAccess.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ToDoList.Models.dll
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ToDoList.DataAccess.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ToDoList.Models.pdb
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Tiago\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
